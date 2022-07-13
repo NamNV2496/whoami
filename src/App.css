@@ -8,16 +8,16 @@
 .home,
 .services,
 .products,
-.sign-up {
+.whoami {
   display: flex;
-  height: 90vh;
+  height: 70vh;
   align-items: center;
   justify-content: center;
   font-size: 3rem;
 }
 
 .services {
-  background-image: url('/images/img-2.jpg');
+  background-image: url('/src/components/pages/images/img-1.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -26,19 +26,19 @@
 }
 
 .products {
-  background-image: url('/images/img-1.jpg');
+  background-image: url('/src/components/pages/images/img-1.jpg');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
-  color: #fff;
+  color: black;
   font-size: 100px;
 }
 
-.sign-up {
-  background-image: url('/images/img-8.jpg');
+.whoami {
+  background-image: url('/src/components/pages/images/img-8.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
+  color: black;
   font-size: 100px;
 }
