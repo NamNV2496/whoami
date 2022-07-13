@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/whoami/static/css/main.a5e8098d.chunk.css",
-    "main.js": "/whoami/static/js/main.e4869c12.chunk.js",
-    "main.js.map": "/whoami/static/js/main.e4869c12.chunk.js.map",
+    "main.js": "/whoami/static/js/main.489fcf59.chunk.js",
+    "main.js.map": "/whoami/static/js/main.489fcf59.chunk.js.map",
     "runtime-main.js": "/whoami/static/js/runtime-main.8acfe459.js",
     "runtime-main.js.map": "/whoami/static/js/runtime-main.8acfe459.js.map",
     "static/js/2.03a8d33e.chunk.js": "/whoami/static/js/2.03a8d33e.chunk.js",
     "static/js/2.03a8d33e.chunk.js.map": "/whoami/static/js/2.03a8d33e.chunk.js.map",
     "index.html": "/whoami/index.html",
-    "precache-manifest.8e52c419a03a67240c30458d176cc158.js": "/whoami/precache-manifest.8e52c419a03a67240c30458d176cc158.js",
+    "precache-manifest.43188d6abb750a7d702d4adbf6482dee.js": "/whoami/precache-manifest.43188d6abb750a7d702d4adbf6482dee.js",
     "service-worker.js": "/whoami/service-worker.js",
     "static/css/main.a5e8098d.chunk.css.map": "/whoami/static/css/main.a5e8098d.chunk.css.map",
     "static/js/2.03a8d33e.chunk.js.LICENSE.txt": "/whoami/static/js/2.03a8d33e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8acfe459.js",
     "static/js/2.03a8d33e.chunk.js",
     "static/css/main.a5e8098d.chunk.css",
-    "static/js/main.e4869c12.chunk.js"
+    "static/js/main.489fcf59.chunk.js"
   ]
 }
