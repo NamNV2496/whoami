@@ -17,11 +17,11 @@
 }
 
 .services {
-  background-image: url('/src/components/pages/images/img-1.jpg');
+  /* background-image: url('${process.env.PUBLIC_URL} + /images/img-9.jpg}');
   background-position: center;
   background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
+  background-repeat: no-repeat; */
+  color: red;
   font-size: 100px;
 }
 

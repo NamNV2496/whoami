@@ -1,0 +1,26 @@
+.markdown-container {
+    background-color: whitesmoke;
+    height: auto;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain;
+    margin: auto;
+}
+
+.markdown-post {
+    width: 90%;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+
+@media screen and (max-width: 960px) {
+    .markdown-post {
+        position: relative;
+        width: 90%;
+        margin-left: 40px;
+        margin-right: 20px;
+    }
+}
