@@ -1,22 +1,29 @@
-import React, { Component } from 'react';
-import data from "./data"; 
+import React, { useState, useEffect } from 'react';
+
+import Markdown from 'markdown-to-jsx';
 
 
-const menuJavaItems = data.MenuJavaItems;
 
-class Example1 extends Component {
-    
-	render() {
-        menuJavaItems.map(s => console.log(s));
+function ReadJson (props) {
+        const [post, setPost] = useState('');
+        useEffect(() => {
+            import(`./md/${props.file_name}.md`)
+                .then(res => {
+                    fetch(res.default)
+                        .then(res => res.text())
+                        .then(res => setPost(res))
+                        .catch(err => console.log(err));
+                })
+                .catch(err => console.log(err));
+        });
+
 		return (
-            <ul>
-                {
-                    // menuJavaItems.map(s => console.log(s))
-                }
-            </ul>
+            <div className="markdown-container">
+                <Markdown className="markdown-post">
+                    {post}
+                </Markdown>
+            </div>
         );
-    }
 
-    
 } 
-export default Example1;
+export default ReadJson;

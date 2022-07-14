@@ -1,7 +1,10 @@
 import React, { useState } from 'react';
-import { MenuJavaItems, MenuLinuxItems } from './MenuItems';
 import './Dropdown.css';
 import { Link } from 'react-router-dom';
+import menu from './json/menu.json'
+
+const MenuLinuxItems = menu.MenuLinuxItems
+const MenuJavaItems = menu.MenuJavaItems
 
 function Dropdown (props) {
   const checkMenuItems = props.menuType==='1' ? MenuLinuxItems : MenuJavaItems;

@@ -1,0 +1,25 @@
+{
+
+"Menu" :[
+  {"name": "OSGI-Idempiere"},
+  {"name": "Spring Boot"}
+]
+,
+"PostOSGIItems" : [
+    {
+      "title": "How to setup OSGI in eclipse",
+      "path": "How_to_setup_OSGI_in_eclipse",
+      "cName": "dropdown-link"
+    },
+    {
+      "title": "Java Core",
+      "path": "javaCore",
+      "cName": "dropdown-link"
+    },
+    {
+      "title": "Spring boot",
+      "path": "springBoot",
+      "cName": "dropdown-link"
+    }
+  ]
+}

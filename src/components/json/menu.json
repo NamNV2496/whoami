@@ -1,0 +1,33 @@
+{
+  
+"MenuJavaItems" : [
+    {
+        "title": "OSGI - Idempiere",
+        "path": "/Services?tag=OSGI-Idempiere",
+        "cName": "dropdown-link"
+    },
+    {
+        "title": "Java Core",
+        "path": "/Services?tag=javaCore",
+        "cName": "dropdown-link"
+    },
+    {
+        "title": "Spring boot",
+        "path": "/Services?tag=springBoot",
+        "cName": "dropdown-link"
+    }
+  ],
+  
+"MenuLinuxItems" : [
+    {
+        "title": "C/C++",
+        "path": "/Services?tag=c-c++",
+        "cName": "dropdown-link"
+    },
+    {
+        "title": "Linux Driver",
+        "path": "/Services?tag=linuxDriver",
+        "cName": "dropdown-link"
+    }
+  ]
+}

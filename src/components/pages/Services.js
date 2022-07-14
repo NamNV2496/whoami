@@ -1,32 +1,33 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import '../../App.css';
-import Markdown from 'markdown-to-jsx';
 import './Services.css';
-import Example1 from '../ReadJson'
+import { Link } from 'react-router-dom';
+import posts from "../json/posts.json";
+import Page404 from '../404'
 
+const postOSGIItems = posts.PostOSGIItems;
 
 function Services() {
 
-  // const file_name = 'test_md.md';
-  // const [post, setPost] = useState('');
-  // useEffect(() => {
-  //   import(`../md/${file_name}`)
-  //       .then(res => {
-  //           fetch(res.default)
-  //               .then(res => res.text())
-  //               .then(res => setPost(res))
-  //               .catch(err => console.log(err));
-  //       })
-  //       .catch(err => console.log(err));
-  // });
+  const params = new URLSearchParams(window.location.search);
+  const tagName = params.get("tag");
 
-  return (
-    // <div className="markdown-container">
-    //     <Markdown className="markdown-post">
-    //         {post}
-    //     </Markdown>
-    // </div>
-);
+  if (tagName === "OSGI-Idempiere") {
+    return (
+      postOSGIItems.map(osgi => 
+        <li className='post__item'>
+          <Link className='post__item__link' to={`/PostItem?post=${osgi.path}`} >
+            {osgi.title}
+          </Link>
+        </li>
+      )
+    );
+  } 
+  else {
+    return (
+      <Page404 />
+    )
+  }
 
 }
 
