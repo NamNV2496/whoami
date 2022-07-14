@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/whoami/static/css/main.4919279e.chunk.css",
-    "main.js": "/whoami/static/js/main.d78d0d9b.chunk.js",
-    "main.js.map": "/whoami/static/js/main.d78d0d9b.chunk.js.map",
-    "runtime-main.js": "/whoami/static/js/runtime-main.8acfe459.js",
-    "runtime-main.js.map": "/whoami/static/js/runtime-main.8acfe459.js.map",
-    "static/js/2.386093fb.chunk.js": "/whoami/static/js/2.386093fb.chunk.js",
-    "static/js/2.386093fb.chunk.js.map": "/whoami/static/js/2.386093fb.chunk.js.map",
+    "main.css": "/whoami/static/css/main.547a8166.chunk.css",
+    "main.js": "/whoami/static/js/main.b11188ae.chunk.js",
+    "main.js.map": "/whoami/static/js/main.b11188ae.chunk.js.map",
+    "runtime-main.js": "/whoami/static/js/runtime-main.06ee32c6.js",
+    "runtime-main.js.map": "/whoami/static/js/runtime-main.06ee32c6.js.map",
+    "static/js/2.704d1f76.chunk.js": "/whoami/static/js/2.704d1f76.chunk.js",
+    "static/js/2.704d1f76.chunk.js.map": "/whoami/static/js/2.704d1f76.chunk.js.map",
+    "static/js/3.4b53a2a9.chunk.js": "/whoami/static/js/3.4b53a2a9.chunk.js",
+    "static/js/3.4b53a2a9.chunk.js.map": "/whoami/static/js/3.4b53a2a9.chunk.js.map",
+    "static/js/4.afe79ea3.chunk.js": "/whoami/static/js/4.afe79ea3.chunk.js",
+    "static/js/4.afe79ea3.chunk.js.map": "/whoami/static/js/4.afe79ea3.chunk.js.map",
     "index.html": "/whoami/index.html",
-    "precache-manifest.4a664cb6e6e45f77830e7d9bdc8dba8b.js": "/whoami/precache-manifest.4a664cb6e6e45f77830e7d9bdc8dba8b.js",
+    "precache-manifest.44105cb148bfae769f55687897f18696.js": "/whoami/precache-manifest.44105cb148bfae769f55687897f18696.js",
     "service-worker.js": "/whoami/service-worker.js",
-    "static/css/main.4919279e.chunk.css.map": "/whoami/static/css/main.4919279e.chunk.css.map",
-    "static/js/2.386093fb.chunk.js.LICENSE.txt": "/whoami/static/js/2.386093fb.chunk.js.LICENSE.txt"
+    "static/css/main.547a8166.chunk.css.map": "/whoami/static/css/main.547a8166.chunk.css.map",
+    "static/js/2.704d1f76.chunk.js.LICENSE.txt": "/whoami/static/js/2.704d1f76.chunk.js.LICENSE.txt",
+    "static/media/How_to_setup_OSGI_in_eclipse.md": "/whoami/static/media/How_to_setup_OSGI_in_eclipse.2a9da1b3.md",
+    "static/media/javaCore.md": "/whoami/static/media/javaCore.f7d75cd9.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.8acfe459.js",
-    "static/js/2.386093fb.chunk.js",
-    "static/css/main.4919279e.chunk.css",
-    "static/js/main.d78d0d9b.chunk.js"
+    "static/js/runtime-main.06ee32c6.js",
+    "static/js/2.704d1f76.chunk.js",
+    "static/css/main.547a8166.chunk.css",
+    "static/js/main.b11188ae.chunk.js"
   ]
 }
