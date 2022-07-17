@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import menu from './json/menu.json'
 
 const MenuLinuxItems = menu.MenuLinuxItems
-const MenuJavaItems = menu.MenuJavaItems.subNav
+const MenuJavaItems = menu.MenuJavaItems
 
 function Dropdown (props) {
   const checkMenuItems = props.menuType==='1' ? MenuLinuxItems : MenuJavaItems;

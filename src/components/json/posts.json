@@ -8,12 +8,12 @@
 "PostOSGIItems" : [
     {
       "title": "How to setup OSGI in eclipse",
-      "path": "How_to_setup_OSGI_in_eclipse",
+      "path": "Java/OSGI/15-07-2022/How_to_setup_OSGI_in_eclipse",
       "cName": "dropdown-link"
     },
     {
       "title": "Java Core",
-      "path": "javaCore",
+      "path": "Java/JavaCore/17-07-2022/javaCore",
       "cName": "dropdown-link"
     },
     {
