@@ -1,0 +1,31 @@
+body {
+    background-color: whitesmoke;
+    }
+    .markdown-editor, .rendered-output {
+    height: 100%;
+    width: 100%;
+    padding: 40px;
+
+    }
+    .markdown-textarea, .rendered-html-output {
+    height: 30vh;
+    width: 100%;
+    overflow: auto;
+    border-radius: 2px;
+    }
+    .rendered-html-output {
+        border-style: dotted;
+        border-color: blueviolet;
+    }
+    .btn-primary {
+        padding: 5px;
+        background-color: bisque;
+        margin-left: 5px;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+    .input-group {
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+    
