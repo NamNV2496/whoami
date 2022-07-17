@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/whoami/static/css/main.390650b7.chunk.css",
-    "main.js": "/whoami/static/js/main.58a3db59.chunk.js",
-    "main.js.map": "/whoami/static/js/main.58a3db59.chunk.js.map",
-    "runtime-main.js": "/whoami/static/js/runtime-main.d662a681.js",
-    "runtime-main.js.map": "/whoami/static/js/runtime-main.d662a681.js.map",
+    "main.js": "/whoami/static/js/main.a190e7dd.chunk.js",
+    "main.js.map": "/whoami/static/js/main.a190e7dd.chunk.js.map",
+    "runtime-main.js": "/whoami/static/js/runtime-main.8f81c448.js",
+    "runtime-main.js.map": "/whoami/static/js/runtime-main.8f81c448.js.map",
     "static/js/2.f5707984.chunk.js": "/whoami/static/js/2.f5707984.chunk.js",
     "static/js/2.f5707984.chunk.js.map": "/whoami/static/js/2.f5707984.chunk.js.map",
-    "static/js/3.32e8ff5c.chunk.js": "/whoami/static/js/3.32e8ff5c.chunk.js",
-    "static/js/3.32e8ff5c.chunk.js.map": "/whoami/static/js/3.32e8ff5c.chunk.js.map",
-    "static/js/4.d5ef9141.chunk.js": "/whoami/static/js/4.d5ef9141.chunk.js",
-    "static/js/4.d5ef9141.chunk.js.map": "/whoami/static/js/4.d5ef9141.chunk.js.map",
+    "static/js/3.33ca8acc.chunk.js": "/whoami/static/js/3.33ca8acc.chunk.js",
+    "static/js/3.33ca8acc.chunk.js.map": "/whoami/static/js/3.33ca8acc.chunk.js.map",
+    "static/js/4.5ff20d70.chunk.js": "/whoami/static/js/4.5ff20d70.chunk.js",
+    "static/js/4.5ff20d70.chunk.js.map": "/whoami/static/js/4.5ff20d70.chunk.js.map",
     "index.html": "/whoami/index.html",
-    "precache-manifest.5fed17a112fbf4d2671601ba14c501af.js": "/whoami/precache-manifest.5fed17a112fbf4d2671601ba14c501af.js",
+    "precache-manifest.5744d633a8e3e55673c980b32e6d0655.js": "/whoami/precache-manifest.5744d633a8e3e55673c980b32e6d0655.js",
     "service-worker.js": "/whoami/service-worker.js",
     "static/css/main.390650b7.chunk.css.map": "/whoami/static/css/main.390650b7.chunk.css.map",
     "static/js/2.f5707984.chunk.js.LICENSE.txt": "/whoami/static/js/2.f5707984.chunk.js.LICENSE.txt",
@@ -20,9 +20,9 @@
     "static/media/javaCore.md": "/whoami/static/media/javaCore.f7d75cd9.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.d662a681.js",
+    "static/js/runtime-main.8f81c448.js",
     "static/js/2.f5707984.chunk.js",
     "static/css/main.390650b7.chunk.css",
-    "static/js/main.58a3db59.chunk.js"
+    "static/js/main.a190e7dd.chunk.js"
   ]
 }
