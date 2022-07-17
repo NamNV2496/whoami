@@ -1,2 +1,0 @@
-(this["webpackJsonpnavbar-dropdown-v1"]=this["webpackJsonpnavbar-dropdown-v1"]||[]).push([[4],{56:function(p,a,o){p.exports=o.p+"static/media/How_to_setup_OSGI_in_eclipse.2a9da1b3.md"}}]);
-//# sourceMappingURL=4.5ff20d70.chunk.js.map
