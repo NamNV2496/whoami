@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/whoami/static/css/main.547a8166.chunk.css",
-    "main.js": "/whoami/static/js/main.b11188ae.chunk.js",
-    "main.js.map": "/whoami/static/js/main.b11188ae.chunk.js.map",
-    "runtime-main.js": "/whoami/static/js/runtime-main.06ee32c6.js",
-    "runtime-main.js.map": "/whoami/static/js/runtime-main.06ee32c6.js.map",
-    "static/js/2.704d1f76.chunk.js": "/whoami/static/js/2.704d1f76.chunk.js",
-    "static/js/2.704d1f76.chunk.js.map": "/whoami/static/js/2.704d1f76.chunk.js.map",
-    "static/js/3.4b53a2a9.chunk.js": "/whoami/static/js/3.4b53a2a9.chunk.js",
-    "static/js/3.4b53a2a9.chunk.js.map": "/whoami/static/js/3.4b53a2a9.chunk.js.map",
-    "static/js/4.afe79ea3.chunk.js": "/whoami/static/js/4.afe79ea3.chunk.js",
-    "static/js/4.afe79ea3.chunk.js.map": "/whoami/static/js/4.afe79ea3.chunk.js.map",
+    "main.css": "/whoami/static/css/main.390650b7.chunk.css",
+    "main.js": "/whoami/static/js/main.58a3db59.chunk.js",
+    "main.js.map": "/whoami/static/js/main.58a3db59.chunk.js.map",
+    "runtime-main.js": "/whoami/static/js/runtime-main.d662a681.js",
+    "runtime-main.js.map": "/whoami/static/js/runtime-main.d662a681.js.map",
+    "static/js/2.f5707984.chunk.js": "/whoami/static/js/2.f5707984.chunk.js",
+    "static/js/2.f5707984.chunk.js.map": "/whoami/static/js/2.f5707984.chunk.js.map",
+    "static/js/3.32e8ff5c.chunk.js": "/whoami/static/js/3.32e8ff5c.chunk.js",
+    "static/js/3.32e8ff5c.chunk.js.map": "/whoami/static/js/3.32e8ff5c.chunk.js.map",
+    "static/js/4.d5ef9141.chunk.js": "/whoami/static/js/4.d5ef9141.chunk.js",
+    "static/js/4.d5ef9141.chunk.js.map": "/whoami/static/js/4.d5ef9141.chunk.js.map",
     "index.html": "/whoami/index.html",
-    "precache-manifest.44105cb148bfae769f55687897f18696.js": "/whoami/precache-manifest.44105cb148bfae769f55687897f18696.js",
+    "precache-manifest.5fed17a112fbf4d2671601ba14c501af.js": "/whoami/precache-manifest.5fed17a112fbf4d2671601ba14c501af.js",
     "service-worker.js": "/whoami/service-worker.js",
-    "static/css/main.547a8166.chunk.css.map": "/whoami/static/css/main.547a8166.chunk.css.map",
-    "static/js/2.704d1f76.chunk.js.LICENSE.txt": "/whoami/static/js/2.704d1f76.chunk.js.LICENSE.txt",
+    "static/css/main.390650b7.chunk.css.map": "/whoami/static/css/main.390650b7.chunk.css.map",
+    "static/js/2.f5707984.chunk.js.LICENSE.txt": "/whoami/static/js/2.f5707984.chunk.js.LICENSE.txt",
     "static/media/How_to_setup_OSGI_in_eclipse.md": "/whoami/static/media/How_to_setup_OSGI_in_eclipse.2a9da1b3.md",
     "static/media/javaCore.md": "/whoami/static/media/javaCore.f7d75cd9.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.06ee32c6.js",
-    "static/js/2.704d1f76.chunk.js",
-    "static/css/main.547a8166.chunk.css",
-    "static/js/main.b11188ae.chunk.js"
+    "static/js/runtime-main.d662a681.js",
+    "static/js/2.f5707984.chunk.js",
+    "static/css/main.390650b7.chunk.css",
+    "static/js/main.58a3db59.chunk.js"
   ]
 }

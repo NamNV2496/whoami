@@ -1,0 +1,2 @@
+(this["webpackJsonpnavbar-dropdown-v1"]=this["webpackJsonpnavbar-dropdown-v1"]||[]).push([[4],{56:function(a,o,p){a.exports=p.p+"static/media/javaCore.f7d75cd9.md"}}]);
+//# sourceMappingURL=4.d5ef9141.chunk.js.map
