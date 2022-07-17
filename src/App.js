@@ -8,12 +8,14 @@ import Products from './components/pages/Products';
 import Whoami from './components/pages/Whoami';
 import Footer from './components/Footer';
 import PostItem from './components/PostItem';
+import Sidebar from './components/navBar/Sidebar'
 
 function App() {
   return (
     <>
       <Router>
-        <Navbar />
+        <Navbar/>
+        {/* <Sidebar /> */}
         <Switch>
           <Route path='/home' component={Home} />
           <Route path='/' exact component={Home} />
