@@ -1,12 +1,13 @@
 import React from 'react';
 import './Whoami.css';
 import '../../App.css';
+import ReadJson from '../ReadJson'
 
 function Whoami() {
   return (
     <>
         <div className='whoami'>
-            <p> Hello, I am Nam</p>
+          <ReadJson file_name="whoami"> </ReadJson>
         </div>
     </>
   );

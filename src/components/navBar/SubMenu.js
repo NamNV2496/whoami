@@ -43,11 +43,11 @@ const DropdownLink = styled(Link)`
 
 const SubMenu = ({ item }) => {
   const [subnav, setSubnav] = useState(false);
-  const show = () => setSubnav(true);
+  const showSubnav = () => setSubnav(!subnav);
 
   return (
     <>
-      <SidebarLink to={item.path} onMouseEnter={show} onclick="ajudaUpload();return false;">
+      <SidebarLink to={item.path} onClick={item.subNav && showSubnav}>
         <div>
           <SidebarLabel>{item.title}</SidebarLabel>
         </div>
