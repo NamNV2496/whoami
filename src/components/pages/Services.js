@@ -3,12 +3,11 @@ import '../../App.css';
 import './Services.css';
 import { Link } from 'react-router-dom';
 import posts from "../json/posts.json";
-import Page404 from '../404'
+import Page404 from '../404';
 
 const postOSGIItems = posts.PostOSGIItems;
 
 function Services() {
-
   const params = new URLSearchParams(window.location.search);
   const tagName = params.get("tag");
 
@@ -16,9 +15,15 @@ function Services() {
     return (
       postOSGIItems.map(osgi => 
         <li className='post__item'>
-          <Link className='post__item__link' to={`/PostItem?post=${osgi.path}`} >
-            {osgi.title}
-          </Link>
+          <ul className='ul_item'>
+            <li>
+              <Link className='post__item__link' to={`/PostItem?post=${osgi.path}`} >
+                 - {osgi.title}
+              </Link>
+            </li>
+            <li className='description'> {osgi.description}</li>
+            <li className='date'> CreateDate: {osgi.createDate}</li>
+          </ul>
         </li>
       )
     );

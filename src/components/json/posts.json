@@ -9,17 +9,16 @@
     {
       "title": "How to setup OSGI in eclipse",
       "path": "Java/OSGI/15-07-2022/How_to_setup_OSGI_in_eclipse",
-      "cName": "dropdown-link"
+      "cName": "dropdown-link",
+      "description": "This is a introduction about OSGI",
+      "createDate": "15-07-2022"
     },
     {
-      "title": "Java Core",
+      "title": "Work with idempiere",
       "path": "Java/JavaCore/17-07-2022/javaCore",
-      "cName": "dropdown-link"
-    },
-    {
-      "title": "Spring boot",
-      "path": "springBoot",
-      "cName": "dropdown-link"
+      "cName": "dropdown-link",
+      "description": "This is a introduction about imdepiere",
+      "createDate": "18-07-2022"
     }
   ]
 }
